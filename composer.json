@@ -1,0 +1,24 @@
+{
+    "name": "phpclass-form-generater/phpclass-form-generater",
+    "type": "library",
+    "description": "php class for html form generater",
+    "keywords": ["html5","generate","form"],
+    "homepage": "http://github.com/iamapinan/phpclass-form-generater",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Apinan Woratrakun",
+            "email": "iamapinan@gmail.com",
+            "homepage": "www.facebook.com/9apinan",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "phpclass-form-generater": "src"
+        }
+    }
+}
