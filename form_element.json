@@ -1,0 +1,28 @@
+{
+  "text":"<input type=\"text\" {#}>",
+  "password":"<input type=\"password\" {#}>",
+  "email":"<input type=\"email\" {#}>",
+  "file":"<input type=\"file\" {#}>",
+  "date":"<input type=\"date\" {#}>",
+  "datetime":"<input type=\"datetime\" {#}>",
+  "month":"<input type=\"month\" {#}>",
+  "color":"<input type=\"color\" {#}>",
+  "number":"<input type=\"number\" {#}>",
+  "range":"<input type=\"range\" {#}>",
+  "search":"<input type=\"search\" {#}>",
+  "tel":"<input type=\"tel\" {#}>",
+  "time":"<input type=\"time\" {#}>",
+  "url":"<input type=\"url\" {#}>",
+  "week":"<input type=\"week\" {#}>",
+  "radio":"<input type=\"radio\" {#}> {##}",
+  "checkbox":"<input type=\"checkbox\" {#}> {##}",
+  "button":"<button {#}>{##}</button>",
+  "submit":"<input type=\"submit\" {#}>",
+  "select":"<select {#}>{##}</select>",
+  "textarea":"<textarea {#}></textarea>",
+  "html5more": {
+    "datalist":"<datalist {#}>{##}</datalist>",
+    "keygen":"<keygen {#}>",
+    "output":"<output {#}></output>"
+  }
+}
