@@ -1,5 +1,5 @@
 <?php
-namespace phpclass-form-generater;
+namespace lib;
 
 class form {
   private $form_html = '';
