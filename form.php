@@ -1,5 +1,4 @@
 <?php
-namespace lib;
 
 class form {
   private $form_html = '';
@@ -8,7 +7,7 @@ class form {
   private $form_element;
 
   function __construct(){
-    $this->form_element = json_decode(file_get_contents('form_element.json'), true);
+    $this->form_element = json_decode(file_get_contents(__DIR__ . '/form_element.json'), true);
   }
 
   public function form_start($method="POST", $action=null, $attribute=null){
