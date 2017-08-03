@@ -2,7 +2,7 @@
 <script src="/bootstrap/js/bootstrap.min.js" ></script>
 
 <?php
-include '../form.php';
+
 
 
 class formTest extends PHPUnit_Framework_TestCase
@@ -10,7 +10,7 @@ class formTest extends PHPUnit_Framework_TestCase
     private $frm;
     public function setUp()
     {
-        
+        include '../form.php';
         $this->frm = new form;
         $this->frm->form_object = array(
             1=>array(
