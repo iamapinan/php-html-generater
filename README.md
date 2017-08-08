@@ -1,8 +1,8 @@
 
-# About phpclass-form-generater script 
-[![Build Status](https://travis-ci.org/iamapinan/phpclass-form-generater.svg?branch=master)](https://travis-ci.org/iamapinan/phpclass-form-generater)
+# About PHP HTML Generater
+[![Build Status](https://travis-ci.org/iamapinan/php-html-generater.svg?branch=master)](https://travis-ci.org/iamapinan/php-html-generater)
 
-This script will auto generate HTML form output and it very easy to use and work with bootstrap framwork.
+This script will auto generate HTML output and it very easy to use and work with bootstrap framwork.
 
 [Download stable version](https://github.com/iamapinan/php-html-generater/archive/master.zip)
 ## How to use.
