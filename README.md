@@ -4,6 +4,7 @@
 
 This script will auto generate HTML form output and it very easy to use and work with bootstrap framwork.
 
+[Download stable version](https://github.com/iamapinan/php-html-generater/archive/master.zip)
 ## How to use.
 Using step start with create form object.
 
